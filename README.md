@@ -5,11 +5,14 @@
 <p align="center">I am now looking to bring that experience and knowledge of child development into supporting the creation of children's educational apps and webpages to better children's development on a larger scale.</p>
 
 
-- 🔭 I’m currently working on **completing my study with TripleTen in Software Engineering**
+- 🔭 I’m currently working on **completing my Software Engineering coursework and diving into AI & Machine Learning!**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Full stack**
+  
+- 🥅 2025 Goals: Apply for my second masters in Software Engineering & Computer Science
+- 🥅 2025 Goals: Complete certificates in Mobile App Development  
 
-- 👯 I’m looking to collaborate on **the development of educational apps and webpages for families and children.**
+- 👯 I’m looking to collaborate on **developing educational apps and webpages for families and children.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
