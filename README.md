@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kengo Yamada an I'm a Software Engineering student, Educational Director, and Child Developmentalist.</h1>
-<h3 align="center">I'm a passionate, life-long learner who has devoted his life to the education of children and their families with over 10+ years of real-world teaching experience in formal as well as informal settings. I am now looking to bring that experience into the development of apps and webpages to contribute to children's healthy development on a larger scale.</h3>
+<p align="center">I'm a passionate, life-long learner who has devoted his life to the education of children and their families with over 10+ years of real-world teaching experience in formal as well as informal settings. I am now looking to bring that experience into the development of apps and webpages to contribute to children's healthy development on a larger scale.</p>
 
 - 🔭 I’m currently working on **completing my study with TripleTen in Software Engineering**
 
