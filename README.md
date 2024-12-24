@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning **Full stack**
   
-- 🥅 2025 Goals: Apply for my second masters in Software Engineering & Computer Science
-- 🥅 2025 Goals: Complete certificates in Mobile App Development  
+- 🥅 2025 Professional Goal: Apply for my second master's in Software Engineering & Computer Science
+- 🥅 2025 Professional Goal: Complete certificates in Mobile App Development  
 
 - 👯 I’m looking to collaborate on **developing educational apps and webpages for families and children.**
 
