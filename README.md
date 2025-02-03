@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kengo Yamada, and I'm a Software Engineering, Educator, and Child Developmentalist.</h1>
+<h1 align="center">Hi 👋, I'm Kengo Yamada, and I'm a Software Developer, Educator, and Child Developmentalist.</h1>
 <h3 align="center">Experienced Educator & Leader - 10+ years of experience in teaching and educational leadership</h3>
 
 <p align="center">I'm a lifelong learner devoted to the education of children and their families with over 10+ years of real-world teaching experience in informal and formal settings.</p> 
